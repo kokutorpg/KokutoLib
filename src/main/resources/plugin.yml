@@ -1,0 +1,4 @@
+name: Kokutolib
+version: '${version}'
+main: net.kokutorpg.kokutolib.Core
+api-version: 1.16
