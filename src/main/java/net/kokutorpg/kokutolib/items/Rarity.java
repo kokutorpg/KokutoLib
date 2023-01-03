@@ -1,7 +1,7 @@
 package net.kokutorpg.kokutolib.items;
 
 import org.bukkit.ChatColor;
-
+//レアリティ
 public enum Rarity {
     Common(ChatColor.AQUA + "COMMON"),
     Uncommon(ChatColor.GREEN + "UNCOMMON"),
